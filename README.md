@@ -11,3 +11,4 @@
  9. Time series analysis with Python (ARIMA, Prophet) 
  10. Gradient boosting: basic ideas – part 1, key ideas behind major implementations: Xgboost, LightGBM, and CatBoost + practice – part 2
 # Ссылка на сайт курса : https://mlcourse.ai/
+# Ссылка на репозиторий курса на github : https://github.com/Yorko/mlcourse.ai
